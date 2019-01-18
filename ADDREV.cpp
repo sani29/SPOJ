@@ -1,3 +1,6 @@
+/*	Question Link: https://www.spoj.com/problems/ADDREV/
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
